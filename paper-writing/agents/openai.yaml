@@ -1,0 +1,4 @@
+interface:
+  display_name: "面向简单作业的论文与实验报告的 Skill"
+  short_description: "整理课程论文与简单实验报告，统一 Word 样式与三线表，按需提供 LaTeX"
+  default_prompt: "请使用 $paper-writing 根据我的作业要求和材料撰写或整理课程论文或实验报告，默认生成 Word，并询问是否需要 LaTeX 源码。"

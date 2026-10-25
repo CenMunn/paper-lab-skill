@@ -1,0 +1,2 @@
+# Only needed when using paper-writing/scripts/word_styles.py.
+python-docx==1.2.0
